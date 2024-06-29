@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mhn86+01ahWrsYYNKMnX6UCR3ZIeSfzbXuXcaNX9Ckxg62UXKzn+wKD41x0+CUTt9DFJKgsOQd9614y4ZsolBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luise\\Documents\\FolderSync\\FolderSynchronizer-CSharp\\FolderSynchronizer\\FolderSynchronizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luise\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
